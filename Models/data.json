@@ -1,0 +1,1588 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+   "num_results":20,
+   "results":[
+      {
+         "slug_name":"13ukraine-strike",
+         "section":"World",
+         "subsection":"Europe",
+         "title":"Russia Strikes Kyiv, Injuring 45 People",
+         "abstract":"The bombardment, which the mayor said damaged an apartment building and a hospital, was at least the third significant strike on Ukraine’s capital in a week.",
+         "uri":"nyt://article/e5cfa3e0-52fd-53d8-8da4-99710656d3f3",
+         "url":"https://www.nytimes.com/2023/12/12/world/europe/ukraine-kyiv-missile-strike.html",
+         "byline":"By John Yoon",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T23:45:22-05:00",
+         "created_date":"2023-12-12T23:45:22-05:00",
+         "published_date":"2023-12-12T23:45:22-05:00",
+         "first_published_date":"2023-12-12T23:45:22-05:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            "Russian Invasion of Ukraine (2022)"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "Ukraine",
+            "Kyiv (Ukraine)"
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/13/multimedia/13ukraine-strike-hbmp/13ukraine-strike-hbmp-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Outside an apartment building damaged by a missile strike in Kyiv, Ukraine, on Wednesday morning.",
+               "copyright":"Valentyn Ogirenko/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/13/multimedia/13ukraine-strike-hbmp/13ukraine-strike-hbmp-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Outside an apartment building damaged by a missile strike in Kyiv, Ukraine, on Wednesday morning.",
+               "copyright":"Valentyn Ogirenko/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/13/multimedia/13ukraine-strike-hbmp/13ukraine-strike-hbmp-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Outside an apartment building damaged by a missile strike in Kyiv, Ukraine, on Wednesday morning.",
+               "copyright":"Valentyn Ogirenko/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/13/multimedia/13ukraine-strike-hbmp/13ukraine-strike-hbmp-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Outside an apartment building damaged by a missile strike in Kyiv, Ukraine, on Wednesday morning.",
+               "copyright":"Valentyn Ogirenko/Reuters"
+            }
+         ]
+      },
+      {
+         "slug_name":"12argentina-cuts",
+         "section":"World",
+         "subsection":"Americas",
+         "title":"Argentina’s New ‘Anarcho-Capitalist’ President Starts Slashing",
+         "abstract":"Javier Milei has railed against Argentina’s government for years. In his first week in charge, he’s begun cutting it down.",
+         "uri":"nyt://article/66ab028d-8f5f-5bc0-ac66-38dfc2d07d1e",
+         "url":"https://www.nytimes.com/2023/12/12/world/americas/argentina-javier-milei-cuts.html",
+         "byline":"By Jack Nicas, Natalie Alcoba and Lucía Cholakian Herrera",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T23:27:20-05:00",
+         "created_date":"2023-12-12T23:27:20-05:00",
+         "published_date":"2023-12-12T23:27:20-05:00",
+         "first_published_date":"2023-12-12T23:27:20-05:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            "Economic Conditions and Trends",
+            "Inflation (Economics)"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Milei, Javier"
+         ],
+         "geo_facet":[
+            "Argentina",
+            "Buenos Aires (Argentina)"
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/01/12/multimedia/12argentina-cuts-01-qbtz/12argentina-cuts-01-qbtz-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Javier Milei of Argentina at his inauguration Sunday in Buenos Aires. ",
+               "copyright":"Tomas Cuesta/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/01/12/multimedia/12argentina-cuts-01-qbtz/12argentina-cuts-01-qbtz-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Javier Milei of Argentina at his inauguration Sunday in Buenos Aires. ",
+               "copyright":"Tomas Cuesta/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/01/12/multimedia/12argentina-cuts-01-qbtz/12argentina-cuts-01-qbtz-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Javier Milei of Argentina at his inauguration Sunday in Buenos Aires. ",
+               "copyright":"Tomas Cuesta/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/01/12/multimedia/12argentina-cuts-01-qbtz/12argentina-cuts-01-qbtz-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Javier Milei of Argentina at his inauguration Sunday in Buenos Aires. ",
+               "copyright":"Tomas Cuesta/Getty Images"
+            }
+         ]
+      },
+      {
+         "slug_name":"12fargo",
+         "section":"Arts",
+         "subsection":"Television",
+         "title":"‘Fargo’ Season 5, Episode 5 Recap: Tiger Moms",
+         "abstract":"Dot proves once again that she can’t be caged. She and Lorraine may have more in common than they think.",
+         "uri":"nyt://article/5d44bdd1-4bdf-5f06-b197-b17e1e7e6f31",
+         "url":"https://www.nytimes.com/2023/12/12/arts/television/fargo-recap-episode-5.html",
+         "byline":"By Scott Tobias",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T23:00:08-05:00",
+         "created_date":"2023-12-12T23:00:08-05:00",
+         "published_date":"2023-12-12T23:00:08-05:00",
+         "first_published_date":"2023-12-12T23:00:08-05:00",
+         "material_type_facet":"Review",
+         "kicker":"Fargo",
+         "subheadline":"",
+         "des_facet":[
+            "Television"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/arts/12fargo/12fargo-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Lorraine (Jennifer Jason Leigh) showed that she won’t be disrespected. Or underestimated.",
+               "copyright":"Michelle Faye/FX"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/arts/12fargo/12fargo-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Lorraine (Jennifer Jason Leigh) showed that she won’t be disrespected. Or underestimated.",
+               "copyright":"Michelle Faye/FX"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/arts/12fargo/12fargo-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Lorraine (Jennifer Jason Leigh) showed that she won’t be disrespected. Or underestimated.",
+               "copyright":"Michelle Faye/FX"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/arts/12fargo/12fargo-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Lorraine (Jennifer Jason Leigh) showed that she won’t be disrespected. Or underestimated.",
+               "copyright":"Michelle Faye/FX"
+            }
+         ]
+      },
+      {
+         "slug_name":"12israel-hamas-west-bank",
+         "section":"World",
+         "subsection":"Middle East",
+         "title":"At least seven Palestinians were killed in Jenin by Israeli military raids, the health ministry says.",
+         "abstract":"",
+         "uri":"nyt://article/2493b9df-79f6-584e-bcf9-785a0a6fff7f",
+         "url":"https://www.nytimes.com/live/2023/12/12/world/israel-hamas-gaza-war-news/at-least-seven-palestinians-were-killed-in-jenin-by-israeli-military-raids-the-health-ministry-says",
+         "byline":"By Anushka Patil",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T22:50:04-05:00",
+         "created_date":"2023-12-12T22:50:04-05:00",
+         "published_date":"2023-12-12T22:50:04-05:00",
+         "first_published_date":"2023-12-12T22:50:04-05:00",
+         "material_type_facet":"Live Blog Post",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/13/multimedia/13israel-hamas-westbank-hgfl/13israel-hamas-westbank-hgfl-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An Israeli military vehicle in the path of an ambulance carrying an injured person during an Israeli military raid in Jenin on Tuesday.",
+               "copyright":"Raneen Sawafta/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/13/multimedia/13israel-hamas-westbank-hgfl/13israel-hamas-westbank-hgfl-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An Israeli military vehicle in the path of an ambulance carrying an injured person during an Israeli military raid in Jenin on Tuesday.",
+               "copyright":"Raneen Sawafta/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/13/multimedia/13israel-hamas-westbank-hgfl/13israel-hamas-westbank-hgfl-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An Israeli military vehicle in the path of an ambulance carrying an injured person during an Israeli military raid in Jenin on Tuesday.",
+               "copyright":"Raneen Sawafta/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/13/multimedia/13israel-hamas-westbank-hgfl/13israel-hamas-westbank-hgfl-articleInline.jpg",
+               "format":"Normal",
+               "height":131,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An Israeli military vehicle in the path of an ambulance carrying an injured person during an Israeli military raid in Jenin on Tuesday.",
+               "copyright":"Raneen Sawafta/Reuters"
+            }
+         ]
+      },
+      {
+         "slug_name":"13wordplay-water",
+         "section":"Gameplay",
+         "subsection":"",
+         "title":"Furrow Former",
+         "abstract":"Alex Eaton-Salners puts us in a flow state.",
+         "uri":"nyt://article/1db3aa91-fcf8-53c2-a852-c204946b9f1c",
+         "url":"https://www.nytimes.com/2023/12/12/crosswords/daily-puzzle-2023-12-13.html",
+         "byline":"By Sam Corbin",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T22:00:11-05:00",
+         "created_date":"2023-12-12T22:00:11-05:00",
+         "published_date":"2023-12-12T22:00:11-05:00",
+         "first_published_date":"2023-12-12T22:00:11-05:00",
+         "material_type_facet":"News",
+         "kicker":"wordplay, the crossword column",
+         "subheadline":"",
+         "des_facet":[
+            "Crossword Puzzles",
+            "Games"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/11/crosswords/13wordplay-water-header/oakImage-1702311372435-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ice Cube, an American rapper, during a New Year’s Eve party in 2003.",
+               "copyright":"Carlo Allegri/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/11/crosswords/13wordplay-water-header/oakImage-1702311372435-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ice Cube, an American rapper, during a New Year’s Eve party in 2003.",
+               "copyright":"Carlo Allegri/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/11/crosswords/13wordplay-water-header/oakImage-1702311372435-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ice Cube, an American rapper, during a New Year’s Eve party in 2003.",
+               "copyright":"Carlo Allegri/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/11/crosswords/13wordplay-water-header/oakImage-1702311372435-articleInline.jpg",
+               "format":"Normal",
+               "height":118,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ice Cube, an American rapper, during a New Year’s Eve party in 2003.",
+               "copyright":"Carlo Allegri/Getty Images"
+            }
+         ]
+      },
+      {
+         "slug_name":"12nat-florida-ziegler",
+         "section":"U.S.",
+         "subsection":"",
+         "title":"Alluding to Scandal, Florida School Board Urges Member to Resign",
+         "abstract":"The resolution against Bridget Ziegler, a co-founder of the activist group Moms for Liberty, is nonbinding. She did not address critics who called her anti-L.G.B.T.Q. policies hypocritical.",
+         "uri":"nyt://article/5d3c4eac-5fec-5051-b1a8-e592b2c53e18",
+         "url":"https://www.nytimes.com/2023/12/12/us/bridget-ziegler-florida-moms-for-liberty.html",
+         "byline":"By Patricia Mazzei",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T21:48:47-05:00",
+         "created_date":"2023-12-12T21:48:47-05:00",
+         "published_date":"2023-12-12T21:48:47-05:00",
+         "first_published_date":"2023-12-12T21:48:47-05:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            "School Boards"
+         ],
+         "org_facet":[
+            "Moms for Liberty"
+         ],
+         "per_facet":[
+            "Ziegler, Bridget (1982- )",
+            "Ziegler, Christian (1983- )"
+         ],
+         "geo_facet":[
+            "Sarasota (Fla)"
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12nat-florida-ziegler-gwtz/12nat-florida-ziegler-gwtz-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Bridget Ziegler, a member of the school board in Sarasota, Fla., during a meeting on Tuesday in which she was asked to resign.",
+               "copyright":"Steve Nesius/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12nat-florida-ziegler-gwtz/12nat-florida-ziegler-gwtz-mediumThreeByTwo210-v2.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Bridget Ziegler, a member of the school board in Sarasota, Fla., during a meeting on Tuesday in which she was asked to resign.",
+               "copyright":"Steve Nesius/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12nat-florida-ziegler-gwtz/12nat-florida-ziegler-gwtz-mediumThreeByTwo440-v2.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Bridget Ziegler, a member of the school board in Sarasota, Fla., during a meeting on Tuesday in which she was asked to resign.",
+               "copyright":"Steve Nesius/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12nat-florida-ziegler-gwtz/12nat-florida-ziegler-gwtz-articleInline-v2.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Bridget Ziegler, a member of the school board in Sarasota, Fla., during a meeting on Tuesday in which she was asked to resign.",
+               "copyright":"Steve Nesius/Reuters"
+            }
+         ]
+      },
+      {
+         "slug_name":"12xp-braugher",
+         "section":"Arts",
+         "subsection":"Television",
+         "title":"Andre Braugher, Actor on ‘Brooklyn Nine-Nine’ and ‘Homicide,’ Dies at 61",
+         "abstract":"Mr. Braugher was best known for playing stoic police officers on “Brooklyn Nine-Nine” and “Homicide: Life on the Street.” He died on Monday after a brief illness, his publicist said.",
+         "uri":"nyt://article/0774b955-6c62-51e7-99f3-1759058efabf",
+         "url":"https://www.nytimes.com/2023/12/12/arts/television/andre-braugher-dead.html",
+         "byline":"By Mike Ives",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T23:52:24-05:00",
+         "created_date":"2023-12-12T21:08:28-05:00",
+         "published_date":"2023-12-12T21:08:28-05:00",
+         "first_published_date":"2023-12-12T21:08:28-05:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            "Actors and Actresses",
+            "Television",
+            "Movies",
+            "Deaths (Obituaries)"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Braugher, Andre"
+         ],
+         "geo_facet":[
+            
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12xp-braugher-zgkv/12xp-braugher-zgkv-thumbStandard-v2.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Andre Braugher at CBS Radford Studios in Los Angeles in 2018. He starred in “Brooklyn Nine-Nine.”",
+               "copyright":"Chris Pizzello/Invision, via Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12xp-braugher-zgkv/12xp-braugher-zgkv-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Andre Braugher at CBS Radford Studios in Los Angeles in 2018. He starred in “Brooklyn Nine-Nine.”",
+               "copyright":"Chris Pizzello/Invision, via Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12xp-braugher-zgkv/12xp-braugher-zgkv-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Andre Braugher at CBS Radford Studios in Los Angeles in 2018. He starred in “Brooklyn Nine-Nine.”",
+               "copyright":"Chris Pizzello/Invision, via Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12xp-braugher-zgkv/12xp-braugher-zgkv-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Andre Braugher at CBS Radford Studios in Los Angeles in 2018. He starred in “Brooklyn Nine-Nine.”",
+               "copyright":"Chris Pizzello/Invision, via Associated Press"
+            }
+         ]
+      },
+      {
+         "slug_name":"12pol-biden-blackdems",
+         "section":"U.S.",
+         "subsection":"Politics",
+         "title":"As Biden Struggles With Black Men, Allies Gather at White House",
+         "abstract":"Aides of the president met with influential Black male Democrats to discuss how to shore up his standing with a crucial group of voters before 2024.",
+         "uri":"nyt://article/a8dc25b2-6669-5b60-87a2-8cdfc3c462d4",
+         "url":"https://www.nytimes.com/2023/12/12/us/politics/biden-black-democrats.html",
+         "byline":"By Reid J. Epstein and Maya King",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T20:31:43-05:00",
+         "created_date":"2023-12-12T20:31:43-05:00",
+         "published_date":"2023-12-12T20:31:43-05:00",
+         "first_published_date":"2023-12-12T20:31:43-05:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            "Black People",
+            "Voting and Voters",
+            "Presidential Election of 2024",
+            "United States Politics and Government"
+         ],
+         "org_facet":[
+            "Democratic Party"
+         ],
+         "per_facet":[
+            "Biden, Joseph R Jr",
+            "Clyburn, James E",
+            "Harrison, Jaime R (1976- )",
+            "Horsford, Steven A",
+            "Trump, Donald J"
+         ],
+         "geo_facet":[
+            
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12pol-biden-blackdems-topart-cjzm/12pol-biden-blackdems-topart-cjzm-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Recent polls have suggested that President Biden has lost support with Black voters, particularly Black men. ",
+               "copyright":"Haiyun Jiang for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12pol-biden-blackdems-topart-cjzm/12pol-biden-blackdems-topart-cjzm-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Recent polls have suggested that President Biden has lost support with Black voters, particularly Black men. ",
+               "copyright":"Haiyun Jiang for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12pol-biden-blackdems-topart-cjzm/12pol-biden-blackdems-topart-cjzm-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Recent polls have suggested that President Biden has lost support with Black voters, particularly Black men. ",
+               "copyright":"Haiyun Jiang for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12pol-biden-blackdems-topart-cjzm/12pol-biden-blackdems-topart-cjzm-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Recent polls have suggested that President Biden has lost support with Black voters, particularly Black men. ",
+               "copyright":"Haiyun Jiang for The New York Times"
+            }
+         ]
+      },
+      {
+         "slug_name":"12xp-arjona-ESP",
+         "section":"En español",
+         "subsection":"",
+         "title":"Ricardo Arjona, prolífico cantautor guatemalteco, anuncia que dejará de hacer conciertos",
+         "abstract":"El autor de éxitos como “Historia de taxi” dijo que no hará más conciertos de su gira Blanco y Negro después de su última actuación en Chile. Argumentó problemas en la espalda.",
+         "uri":"nyt://article/e160af04-1294-5c90-a71e-b7855032552a",
+         "url":"https://www.nytimes.com/es/2023/12/12/espanol/ricardo-arjona-conciertos.html",
+         "byline":"By Jesus Jiménez",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T20:25:55-05:00",
+         "created_date":"2023-12-12T20:25:55-05:00",
+         "published_date":"2023-12-12T20:25:55-05:00",
+         "first_published_date":"2023-12-12T20:25:55-05:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            "Pop and Rock Music",
+            "Latin Music",
+            "Music"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Arjona, Ricardo"
+         ],
+         "geo_facet":[
+            "Santiago (Chile)",
+            "Guatemala"
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/arts/12xp-arjona-ESP-1/12xp-arjona1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ricardo Arjona actuando durante su gira en Orlando, Florida, en junio.",
+               "copyright":"Gerardo Mora/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/arts/12xp-arjona-ESP-1/12xp-arjona1-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ricardo Arjona actuando durante su gira en Orlando, Florida, en junio.",
+               "copyright":"Gerardo Mora/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/arts/12xp-arjona-ESP-1/12xp-arjona1-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ricardo Arjona actuando durante su gira en Orlando, Florida, en junio.",
+               "copyright":"Gerardo Mora/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/arts/12xp-arjona-ESP-1/12xp-arjona1-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ricardo Arjona actuando durante su gira en Orlando, Florida, en junio.",
+               "copyright":"Gerardo Mora/Getty Images"
+            }
+         ]
+      },
+      {
+         "slug_name":"12GIANTS-QB-AGENT",
+         "section":"Style",
+         "subsection":"",
+         "title":"An N.F.L. Agent Looks the Part and Steals the Show",
+         "abstract":"The legend of Giants quarterback Tommy DeVito continued to grow, but it was his sharp-dressed agent, Sean Stellato, who had his own star turn on Monday Night Football.",
+         "uri":"nyt://article/d7f86c8b-db0c-57ea-b5df-2686c757f9d5",
+         "url":"https://www.nytimes.com/2023/12/12/style/tommy-devito-agent-sean-stellato.html",
+         "byline":"By Scott Cacciola",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T19:45:43-05:00",
+         "created_date":"2023-12-12T19:45:43-05:00",
+         "published_date":"2023-12-12T19:45:43-05:00",
+         "first_published_date":"2023-12-12T19:45:43-05:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            "Football",
+            "Agents (Business)",
+            "Content Type: Personal Profile"
+         ],
+         "org_facet":[
+            "New York Giants"
+         ],
+         "per_facet":[
+            "Stellato, Sean",
+            "DeVito, Tommy (1998- )"
+         ],
+         "geo_facet":[
+            
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/fashion/12GIANTS-QB-AGENT/12GIANTS-QB-AGENT-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"“It’s been absolutely nuts,” Sean Stellato said of the attention he has received after being shown with his client, Tommy DeVito, during this week’s broadcast of Monday Night Football. “But you know what? We’re having fun with it.”",
+               "copyright":"Stuart Cahill/MediaNews Group, via Boston Herald, via Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/fashion/12GIANTS-QB-AGENT/12GIANTS-QB-AGENT-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"“It’s been absolutely nuts,” Sean Stellato said of the attention he has received after being shown with his client, Tommy DeVito, during this week’s broadcast of Monday Night Football. “But you know what? We’re having fun with it.”",
+               "copyright":"Stuart Cahill/MediaNews Group, via Boston Herald, via Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/fashion/12GIANTS-QB-AGENT/12GIANTS-QB-AGENT-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"“It’s been absolutely nuts,” Sean Stellato said of the attention he has received after being shown with his client, Tommy DeVito, during this week’s broadcast of Monday Night Football. “But you know what? We’re having fun with it.”",
+               "copyright":"Stuart Cahill/MediaNews Group, via Boston Herald, via Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/fashion/12GIANTS-QB-AGENT/12GIANTS-QB-AGENT-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"“It’s been absolutely nuts,” Sean Stellato said of the attention he has received after being shown with his client, Tommy DeVito, during this week’s broadcast of Monday Night Football. “But you know what? We’re having fun with it.”",
+               "copyright":"Stuart Cahill/MediaNews Group, via Boston Herald, via Getty Images"
+            }
+         ]
+      },
+      {
+         "slug_name":"12israel-hamas-hostage-families-protest",
+         "section":"World",
+         "subsection":"Middle East",
+         "title":"Demonstrators rally outside Netanyahu’s office to urge the return of the remaining hostages.",
+         "abstract":"",
+         "uri":"nyt://article/7f8aaca4-a016-5a35-bdd2-1338615d7a83",
+         "url":"https://www.nytimes.com/live/2023/12/12/world/israel-hamas-gaza-war-news/demonstrators-rally-outside-netanyahus-office-to-urge-the-return-of-the-remaining-hostages",
+         "byline":"By Adam Sella",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T20:16:43-05:00",
+         "created_date":"2023-12-12T19:45:02-05:00",
+         "published_date":"2023-12-12T19:45:02-05:00",
+         "first_published_date":"2023-12-12T19:45:02-05:00",
+         "material_type_facet":"Live Blog Post",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12israel-hamas-hostages-bwhp/12israel-hamas-hostages-bwhp-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Families, friends and supporters of Israeli hostages still held in Gaza protested in Jerusalem on Tuesday, demanding the Israeli government work to secure their return.",
+               "copyright":"Spencer Platt/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12israel-hamas-hostages-bwhp/12israel-hamas-hostages-bwhp-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Families, friends and supporters of Israeli hostages still held in Gaza protested in Jerusalem on Tuesday, demanding the Israeli government work to secure their return.",
+               "copyright":"Spencer Platt/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12israel-hamas-hostages-bwhp/12israel-hamas-hostages-bwhp-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Families, friends and supporters of Israeli hostages still held in Gaza protested in Jerusalem on Tuesday, demanding the Israeli government work to secure their return.",
+               "copyright":"Spencer Platt/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12israel-hamas-hostages-bwhp/12israel-hamas-hostages-bwhp-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Families, friends and supporters of Israeli hostages still held in Gaza protested in Jerusalem on Tuesday, demanding the Israeli government work to secure their return.",
+               "copyright":"Spencer Platt/Getty Images"
+            }
+         ]
+      },
+      {
+         "slug_name":"12friedman",
+         "section":"Opinion",
+         "subsection":"",
+         "title":"What Worries Me About the Gaza War After My Trip to Arab States",
+         "abstract":"A legitimate Palestinian partner and a commitment to negotiating a two-state solution are key.",
+         "uri":"nyt://article/3b08c340-a34f-5bcc-94f2-6d510ae8eb98",
+         "url":"https://www.nytimes.com/2023/12/12/opinion/israel-gaza-saudi-arabia.html",
+         "byline":"By Thomas L. Friedman",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T22:08:21-05:00",
+         "created_date":"2023-12-12T19:33:17-05:00",
+         "published_date":"2023-12-12T19:33:17-05:00",
+         "first_published_date":"2023-12-12T19:33:17-05:00",
+         "material_type_facet":"Op-Ed",
+         "kicker":"Thomas L. Friedman",
+         "subheadline":"",
+         "des_facet":[
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "Palestinians"
+         ],
+         "org_facet":[
+            "Hamas"
+         ],
+         "per_facet":[
+            "Mohammed bin Salman (1985- )",
+            "Netanyahu, Benjamin"
+         ],
+         "geo_facet":[
+            "Israel",
+            "Saudi Arabia",
+            "Gaza Strip",
+            "United Arab Emirates"
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/14/multimedia/12friedman-1-mqlv/12friedman-1-mqlv-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Destruction in Gaza City.",
+               "copyright":"Mohammed Hajjar/Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/14/multimedia/12friedman-1-mqlv/12friedman-1-mqlv-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Destruction in Gaza City.",
+               "copyright":"Mohammed Hajjar/Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/14/multimedia/12friedman-1-mqlv/12friedman-1-mqlv-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Destruction in Gaza City.",
+               "copyright":"Mohammed Hajjar/Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/14/multimedia/12friedman-1-mqlv/12friedman-1-mqlv-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Destruction in Gaza City.",
+               "copyright":"Mohammed Hajjar/Associated Press"
+            }
+         ]
+      },
+      {
+         "slug_name":"12NY-COHEN",
+         "section":"New York",
+         "subsection":"",
+         "title":"Michael D. Cohen’s Lawyer Cited Cases That May Not Exist, Judge Says",
+         "abstract":"Mr. Cohen, the onetime fixer for former President Donald J. Trump, went to prison after pleading guilty to campaign finance violations. He wants the court to end his supervised release.",
+         "uri":"nyt://article/5d054ad1-2408-53a8-91cc-b909503b5336",
+         "url":"https://www.nytimes.com/2023/12/12/nyregion/cohen-trump-lawyer.html",
+         "byline":"By Benjamin Weiser",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T20:02:18-05:00",
+         "created_date":"2023-12-12T19:16:19-05:00",
+         "published_date":"2023-12-12T19:16:19-05:00",
+         "first_published_date":"2023-12-12T19:16:19-05:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            "Artificial Intelligence",
+            "Decisions and Verdicts",
+            "Campaign Finance"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Cohen, Michael D (1966- )",
+            "Trump, Donald J",
+            "Castel, P Kevin",
+            "Furman, Jesse M",
+            "Schwartz, David M"
+         ],
+         "geo_facet":[
+            "United States"
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12ny-cohen-hjmk/12ny-cohen-hjmk-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Michael D. Cohen’s lawyer filed a motion that cited legal cases that appeared not to exist. ",
+               "copyright":"Maansi Srivastava/The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12ny-cohen-hjmk/12ny-cohen-hjmk-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Michael D. Cohen’s lawyer filed a motion that cited legal cases that appeared not to exist. ",
+               "copyright":"Maansi Srivastava/The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12ny-cohen-hjmk/12ny-cohen-hjmk-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Michael D. Cohen’s lawyer filed a motion that cited legal cases that appeared not to exist. ",
+               "copyright":"Maansi Srivastava/The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12ny-cohen-hjmk/12ny-cohen-hjmk-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Michael D. Cohen’s lawyer filed a motion that cited legal cases that appeared not to exist. ",
+               "copyright":"Maansi Srivastava/The New York Times"
+            }
+         ]
+      },
+      {
+         "slug_name":"12tb-DUNKING",
+         "section":"Science",
+         "subsection":"",
+         "title":"Polly Wants a Cracker, but She Wants to Make It Easier to Chew",
+         "abstract":"Goffin’s cockatoos, long known as adept tool users, are the first parrots found to alter their food by dipping it in water.",
+         "uri":"nyt://article/14975a9c-9f13-536c-9729-af3fee1d1231",
+         "url":"https://www.nytimes.com/2023/12/12/science/bird-cockatoo-parrot-dunking-food.html",
+         "byline":"By Emily Anthes",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T19:01:14-05:00",
+         "created_date":"2023-12-12T19:01:14-05:00",
+         "published_date":"2023-12-12T19:01:14-05:00",
+         "first_published_date":"2023-12-12T19:01:14-05:00",
+         "material_type_facet":"News",
+         "kicker":"Trilobites",
+         "subheadline":"",
+         "des_facet":[
+            "Parrots",
+            "Animal Behavior",
+            "Animal Cognition",
+            "Birds",
+            "Research",
+            "your-feed-science",
+            "your-feed-animals"
+         ],
+         "org_facet":[
+            "Biology Letters (Journal)"
+         ],
+         "per_facet":[
+            "Lefebvre, Louis"
+         ],
+         "geo_facet":[
+            
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12tb-DUNKING-fbhw/12tb-DUNKING-fbhw-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jeroen Zewald/Goffin Lab"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12tb-DUNKING-fbhw/12tb-DUNKING-fbhw-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jeroen Zewald/Goffin Lab"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12tb-DUNKING-fbhw/12tb-DUNKING-fbhw-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jeroen Zewald/Goffin Lab"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12tb-DUNKING-fbhw/12tb-DUNKING-fbhw-articleInline.jpg",
+               "format":"Normal",
+               "height":253,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jeroen Zewald/Goffin Lab"
+            }
+         ]
+      },
+      {
+         "slug_name":"12national-theater",
+         "section":"Theater",
+         "subsection":"",
+         "title":"National Theater, Source of Broadway Hits, Gets Its First Female Leader",
+         "abstract":"Indhu Rubasingham will lead the venerable London institution where plays including “War Horse” and “The Lehman Trilogy” originated.",
+         "uri":"nyt://article/8517830b-5147-5459-a5ee-5b135d333ab2",
+         "url":"https://www.nytimes.com/2023/12/12/theater/national-theater-indhu-rubasingham.html",
+         "byline":"By Alex Marshall",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T19:30:19-05:00",
+         "created_date":"2023-12-12T19:01:14-05:00",
+         "published_date":"2023-12-12T19:01:14-05:00",
+         "first_published_date":"2023-12-12T19:01:14-05:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            "Theater",
+            "Appointments and Executive Changes"
+         ],
+         "org_facet":[
+            "Royal National Theater"
+         ],
+         "per_facet":[
+            "Norris, Rufus",
+            "Rubasingham, Indhu"
+         ],
+         "geo_facet":[
+            "London (England)"
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/arts/12national-theater-new/12national-theater-new-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Indhu Rubasingham in September at the after-party for “The Father and the Assassin” at the National Theater in London.",
+               "copyright":"Jed Cullen/Dave Benett/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/arts/12national-theater-new/12national-theater-new-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Indhu Rubasingham in September at the after-party for “The Father and the Assassin” at the National Theater in London.",
+               "copyright":"Jed Cullen/Dave Benett/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/arts/12national-theater-new/12national-theater-new-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Indhu Rubasingham in September at the after-party for “The Father and the Assassin” at the National Theater in London.",
+               "copyright":"Jed Cullen/Dave Benett/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/arts/12national-theater-new/12national-theater-new-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Indhu Rubasingham in September at the after-party for “The Father and the Assassin” at the National Theater in London.",
+               "copyright":"Jed Cullen/Dave Benett/Getty Images"
+            }
+         ]
+      },
+      {
+         "slug_name":"12stephens",
+         "section":"Opinion",
+         "subsection":"",
+         "title":"Antisemitism: A Guide for the Perplexed",
+         "abstract":"It isn’t just Jews in the cross hairs of antisemites. It’s freedom, education and human dignity.",
+         "uri":"nyt://article/56c3713e-6f1b-56c1-acdc-937e265fb180",
+         "url":"https://www.nytimes.com/2023/12/12/opinion/antisemitism-jewish-israel-war.html",
+         "byline":"By Bret Stephens",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T19:00:03-05:00",
+         "created_date":"2023-12-12T19:00:03-05:00",
+         "published_date":"2023-12-12T19:00:03-05:00",
+         "first_published_date":"2023-12-12T19:00:03-05:00",
+         "material_type_facet":"Op-Ed",
+         "kicker":"Bret Stephens",
+         "subheadline":"",
+         "des_facet":[
+            "Jews and Judaism",
+            "Anti-Semitism",
+            "Zionism",
+            "Israel-Gaza War (2023- )",
+            "Holocaust and the Nazi Era"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/opinion/12stephens/12stephens-thumbStandard-v3.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Illustration by Rebecca Chew/The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/opinion/12stephens/12stephens-mediumThreeByTwo210-v3.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Illustration by Rebecca Chew/The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/opinion/12stephens/12stephens-mediumThreeByTwo440-v3.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Illustration by Rebecca Chew/The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/opinion/12stephens/12stephens-articleInline-v3.jpg",
+               "format":"Normal",
+               "height":190,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Illustration by Rebecca Chew/The New York Times"
+            }
+         ]
+      },
+      {
+         "slug_name":"12israel-hamas-unga-vote",
+         "section":"World",
+         "subsection":"Middle East",
+         "title":"U.N. General Assembly Votes for Israel-Hamas Cease-Fire, Countering U.S. Veto",
+         "abstract":"About three-quarters of the body’s members voted in favor of the nonbinding resolution. The result underscored the isolation of Israel and the United States.",
+         "uri":"nyt://article/92333612-9320-5994-9de5-ac6008addf56",
+         "url":"https://www.nytimes.com/2023/12/12/world/middleeast/un-general-assembly-israel-cease-fire.html",
+         "byline":"By Farnaz Fassihi",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T21:36:49-05:00",
+         "created_date":"2023-12-12T18:36:25-05:00",
+         "published_date":"2023-12-12T18:36:25-05:00",
+         "first_published_date":"2023-12-12T18:36:25-05:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            "Israel-Gaza War (2023- )",
+            "United States International Relations"
+         ],
+         "org_facet":[
+            "General Assembly (UN)",
+            "Hamas",
+            "United Nations"
+         ],
+         "per_facet":[
+            "Biden, Joseph R Jr",
+            "Netanyahu, Benjamin"
+         ],
+         "geo_facet":[
+            "Gaza Strip",
+            "Israel",
+            "United States"
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12israel-hamas-un-ceasefire-cbtw/12israel-hamas-un-ceasefire-cbtw-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Dennis Francis of Trinidad and Tobago, the current president of the U.N. General Assembly, speaking before a note on a nonbinding resolution demanding “an immediate humanitarian cease-fire” in Gaza.",
+               "copyright":"Angela Weiss/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12israel-hamas-un-ceasefire-cbtw/12israel-hamas-un-ceasefire-cbtw-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Dennis Francis of Trinidad and Tobago, the current president of the U.N. General Assembly, speaking before a note on a nonbinding resolution demanding “an immediate humanitarian cease-fire” in Gaza.",
+               "copyright":"Angela Weiss/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12israel-hamas-un-ceasefire-cbtw/12israel-hamas-un-ceasefire-cbtw-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Dennis Francis of Trinidad and Tobago, the current president of the U.N. General Assembly, speaking before a note on a nonbinding resolution demanding “an immediate humanitarian cease-fire” in Gaza.",
+               "copyright":"Angela Weiss/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12israel-hamas-un-ceasefire-cbtw/12israel-hamas-un-ceasefire-cbtw-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Dennis Francis of Trinidad and Tobago, the current president of the U.N. General Assembly, speaking before a note on a nonbinding resolution demanding “an immediate humanitarian cease-fire” in Gaza.",
+               "copyright":"Angela Weiss/Agence France-Presse — Getty Images"
+            }
+         ]
+      },
+      {
+         "slug_name":"12dahmer",
+         "section":"U.S.",
+         "subsection":"",
+         "title":"Lionel Dahmer, Who Agonized About Raising a Serial Killer, Dies at 87",
+         "abstract":"The father of Jeffrey Dahmer, he wrote a memoir that one reviewer said sought to “peer not just into the soul of his son but into his own.”",
+         "uri":"nyt://article/2ad64e64-4127-5332-87b8-130001714421",
+         "url":"https://www.nytimes.com/2023/12/12/us/lionel-dahmer-dead.html",
+         "byline":"By Alex Traub",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T19:00:21-05:00",
+         "created_date":"2023-12-12T18:35:39-05:00",
+         "published_date":"2023-12-12T18:35:39-05:00",
+         "first_published_date":"2023-12-12T18:35:39-05:00",
+         "material_type_facet":"Obituary (Obit)",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            "Deaths (Obituaries)",
+            "Serial Murders",
+            "Murders, Attempted Murders and Homicides",
+            "Cannibalism"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Dahmer, Lionel",
+            "Dahmer, Jeffrey L"
+         ],
+         "geo_facet":[
+            
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/14/multimedia/11dahmer-02-tblm-print2/11dahmer-02-tblm-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Lionel Dahmer and his wife, Shari, at the trial of the serial killer Jeffrey Dahmer, his son, in Milwaukee in 1992. The jury determined that Jeffrey Dahmer was sane and therefore eligible to spend life in prison. Lionel Dahmer later wrote a memoir.",
+               "copyright":"Rick Wood/Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/14/multimedia/11dahmer-02-tblm-print2/11dahmer-02-tblm-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Lionel Dahmer and his wife, Shari, at the trial of the serial killer Jeffrey Dahmer, his son, in Milwaukee in 1992. The jury determined that Jeffrey Dahmer was sane and therefore eligible to spend life in prison. Lionel Dahmer later wrote a memoir.",
+               "copyright":"Rick Wood/Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/14/multimedia/11dahmer-02-tblm-print2/11dahmer-02-tblm-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Lionel Dahmer and his wife, Shari, at the trial of the serial killer Jeffrey Dahmer, his son, in Milwaukee in 1992. The jury determined that Jeffrey Dahmer was sane and therefore eligible to spend life in prison. Lionel Dahmer later wrote a memoir.",
+               "copyright":"Rick Wood/Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/14/multimedia/11dahmer-02-tblm-print2/11dahmer-02-tblm-articleInline.jpg",
+               "format":"Normal",
+               "height":130,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Lionel Dahmer and his wife, Shari, at the trial of the serial killer Jeffrey Dahmer, his son, in Milwaukee in 1992. The jury determined that Jeffrey Dahmer was sane and therefore eligible to spend life in prison. Lionel Dahmer later wrote a memoir.",
+               "copyright":"Rick Wood/Associated Press"
+            }
+         ]
+      },
+      {
+         "slug_name":"12tavares",
+         "section":"Arts",
+         "subsection":"Music",
+         "title":"Sara Tavares, Portuguese Singer Who Prized Her African Roots, Dies at 45",
+         "abstract":"She drew on rhythms from across the African diaspora and sang in Portuguese, English, Cape Verdean Criolo and Angolan slang.",
+         "uri":"nyt://article/01ef2604-5258-5f0a-b1c2-de8af4ecdaab",
+         "url":"https://www.nytimes.com/2023/12/12/arts/music/sara-tavares-dead.html",
+         "byline":"By Jon Pareles",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T18:07:31-05:00",
+         "created_date":"2023-12-12T18:07:31-05:00",
+         "published_date":"2023-12-12T18:07:31-05:00",
+         "first_published_date":"2023-12-12T18:07:31-05:00",
+         "material_type_facet":"Obituary (Obit)",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            "Deaths (Obituaries)",
+            "Music",
+            "Latin Music",
+            "Pop and Rock Music",
+            "Eurovision Song Contest",
+            "Latin Grammy Awards"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Tavares, Sara (1978-2023)"
+         ],
+         "geo_facet":[
+            "Portugal",
+            "Cape Verde"
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12tavares-lpbv/12tavares-lpbv-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Portuguese singer, songwriter and guitarist Sara Tavares in 2018. “It will be a long time,” she once said, “before the people from my generation do not have to choose between being African or European.” ",
+               "copyright":"Sipa, via Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12tavares-lpbv/12tavares-lpbv-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Portuguese singer, songwriter and guitarist Sara Tavares in 2018. “It will be a long time,” she once said, “before the people from my generation do not have to choose between being African or European.” ",
+               "copyright":"Sipa, via Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12tavares-lpbv/12tavares-lpbv-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Portuguese singer, songwriter and guitarist Sara Tavares in 2018. “It will be a long time,” she once said, “before the people from my generation do not have to choose between being African or European.” ",
+               "copyright":"Sipa, via Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12tavares-lpbv/12tavares-lpbv-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Portuguese singer, songwriter and guitarist Sara Tavares in 2018. “It will be a long time,” she once said, “before the people from my generation do not have to choose between being African or European.” ",
+               "copyright":"Sipa, via Associated Press"
+            }
+         ]
+      },
+      {
+         "slug_name":"12evening-web",
+         "section":"Briefing",
+         "subsection":"",
+         "title":"In Washington, Zelensky Faces Republican Intransigence",
+         "abstract":"Also, Biden and Netanyahu disagree over the war’s next steps. Here’s the latest at the end of Tuesday.",
+         "uri":"nyt://article/60f85e19-4bdc-539f-b090-8f6ef8c08672",
+         "url":"https://www.nytimes.com/2023/12/12/briefing/ukraine-washington-aid-biden-israel-hamas.html",
+         "byline":"By Matthew Cullen",
+         "item_type":"Article",
+         "source":"New York Times",
+         "updated_date":"2023-12-12T18:26:40-05:00",
+         "created_date":"2023-12-12T17:59:25-05:00",
+         "published_date":"2023-12-12T17:59:25-05:00",
+         "first_published_date":"2023-12-12T17:59:25-05:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "subheadline":"",
+         "des_facet":[
+            
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "related_urls":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12evening-promo/12zelensky-dc-hp-thumbStandard-v2.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"“It is practically impossible” for Congress to pass a bill on Ukraine and border security before the holidays, said Senator Mitch McConnell.",
+               "copyright":"Kent Nishimura for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12evening-promo/12evening-ukraine-dc-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"“It is practically impossible” for Congress to pass a bill on Ukraine and border security before the holidays, said Senator Mitch McConnell.",
+               "copyright":"Kent Nishimura for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12evening-promo/12evening-ukraine-dc-mediumThreeByTwo440.jpg",
+               "format":"mediumThreeByTwo440",
+               "height":293,
+               "width":440,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"“It is practically impossible” for Congress to pass a bill on Ukraine and border security before the holidays, said Senator Mitch McConnell.",
+               "copyright":"Kent Nishimura for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/12/12/multimedia/12evening-promo/12evening-ukraine-dc-articleInline.jpg",
+               "format":"Normal",
+               "height":190,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"“It is practically impossible” for Congress to pass a bill on Ukraine and border security before the holidays, said Senator Mitch McConnell.",
+               "copyright":"Kent Nishimura for The New York Times"
+            }
+         ]
+      }
+   ]
+}
